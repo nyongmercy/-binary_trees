@@ -263,7 +263,6 @@ Function Prototypes
     <ul>
     <li><a href="https://www.github.com/nyongmercy">Github</a></li>
     <li><a href="mailto:nyongmercy@gmail.com">e-mail</a></li>
-
     <li><a href="https://www.github.com/EdemEssang">Github</a></li>                 <li><a href="mailto:edemukohassociates@outlook.com">e-mail</a></li>
     </ul>
 </details>
