@@ -258,9 +258,12 @@ Function Prototypes
 
 ## Authors
 <details>
-    <summary>Umoh Andem</summary>
+    <summary>Nyong Mercy</summary>
+    <summary>Edem Ukoh</summary>
     <ul>
-    <li><a href="https://www.github.com/umohpyro">Github</a></li>
-    <li><a href="mailto:andemumoh@gmail.com">e-mail</a></li>
+    <li><a href="https://www.github.com/nyongmercy">Github</a></li>
+    <li><a href="mailto:nyongmercy@gmail.com">e-mail</a></li>
+
+    <li><a href="https://www.github.com/EdemEssang">Github</a></li>                 <li><a href="mailto:edemukohassociates@outlook.com">e-mail</a></li>
     </ul>
 </details>
